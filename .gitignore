@@ -3,6 +3,7 @@
 .RData
 .httr-oauth
 Rfunctions.Rproj
+makeDataDictionary.Rproj
 mypackages.R
 misc-tables.R
 df_dictionary.R
